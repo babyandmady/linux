@@ -44,7 +44,7 @@ jobs:
 
           pwd
 
-          python3 rclone_sa_magic.py -s 0ADtpZRykFlKtUk9PVA -d 0AEEtbNWMZWHJUk9PVA -b 255 -e 300
+          python3 rclone_sa_magic.py -s 0AFQwEuhhEKPsUk9PVA -d 0AB7-InnxiRAmUk9PVA -b 101 -e 150
 
           
 
@@ -56,7 +56,7 @@ jobs:
 
           pwd
 
-          python3 rclone_sa_magic.py -s 0ADtpZRykFlKtUk9PVA -d 0AEEtbNWMZWHJUk9PVA -b 354 -e 400  
+          python3 rclone_sa_magic.py -s 0AFQwEuhhEKPsUk9PVA -d 0AB7-InnxiRAmUk9PVA -b 151 -e 200  
 
 
 
