@@ -36,7 +36,7 @@ jobs:
 
           pwd
 
-          python3 rclone_sa_magic.py -s 0AFQwEuhhEKPsUk9PVA -d 0AB7-InnxiRAmUk9PVA -b 391 -e 400
+          python3 rclone_sa_magic.py -s 0AFQwEuhhEKPsUk9PVA -d 0AB7-InnxiRAmUk9PVA -b 301 -e 400
 
     - name: Into Autorclone amd Python Run (2)
 
@@ -46,4 +46,4 @@ jobs:
 
           pwd
 
-          python3 rclone_sa_magic.py -s 0AFQwEuhhEKPsUk9PVA -d 0AB7-InnxiRAmUk9PVA -b 481 -e 500  
+          python3 rclone_sa_magic.py -s 0AFQwEuhhEKPsUk9PVA -d 0AB7-InnxiRAmUk9PVA -b 491 -e 500  
